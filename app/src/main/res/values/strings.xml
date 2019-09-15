@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string name="api_key">d50bb1b173479d255536</string>
+
+</resources>
